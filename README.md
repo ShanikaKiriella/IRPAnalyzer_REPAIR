@@ -1,4 +1,5 @@
 # IRPAnalyzer
+Download: [here](https://github.com/ShanikaKiriella/IRPAnalyzer_REPAIR/releases/tag/v2.1)
 
 ## Description
 IRPAnalyzer is an open-source app dedicated to the analysis and design of internal replacement pipe (IRP) systems for pipeline rehabilitation
